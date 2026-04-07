@@ -1,7 +1,12 @@
 aid: ashland
-url: https://raw.githubusercontent.com/api-evangelist/ashland/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ashland/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.ashland.com
+description: >-
+  Ashland is a global specialty chemicals company that provides ingredients and additives
+  for the pharmaceutical, personal care, food and beverage, coatings, and industrial
+  markets.
