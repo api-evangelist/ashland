@@ -41,6 +41,8 @@ apis:
       - type: Documentation
         url: https://www.ashland.com/search
 common:
+  - type: DomainSecurity
+    url: security/ashland-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ashland-inc
   - type: Portal
