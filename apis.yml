@@ -5,6 +5,13 @@ name: Ashland
 tags:
   - Chemicals
   - Specialty Chemicals
+  - Pharmaceuticals
+  - Personal Care
+  - Industrial
+  - Fortune 500
+tags_raw:
+  - Chemicals
+  - Specialty Chemicals
   - Pharmaceutical
   - Personal Care
   - Industrial
