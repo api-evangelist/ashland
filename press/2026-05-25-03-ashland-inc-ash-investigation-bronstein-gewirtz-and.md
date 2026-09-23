@@ -1,7 +1,9 @@
 ---
 title: 'Ashland Inc. (ASH) Investigation: Bronstein, Gewirtz & ...'
 url: https://natlawreview.com/press-releases/ashland-inc-ash-investigation-bronstein-gewirtz-grossman-llc-encourages
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ashland" press release artificial intelligence'
 position: 3
 source: serpapi-google

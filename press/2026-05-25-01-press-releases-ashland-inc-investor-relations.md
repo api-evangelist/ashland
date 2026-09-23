@@ -1,7 +1,9 @@
 ---
 title: Press Releases | Ashland Inc. - Investor Relations
 url: https://investor.ashland.com/press-releases?mobile=1&page=8
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ashland" press release artificial intelligence'
 position: 1
 source: serpapi-google

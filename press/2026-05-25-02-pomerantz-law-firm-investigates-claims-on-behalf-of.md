@@ -1,7 +1,9 @@
 ---
 title: Pomerantz Law Firm Investigates Claims On Behalf of ...
 url: https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-ashland-inc---ash-302765239.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ashland" press release artificial intelligence'
 position: 2
 source: serpapi-google
