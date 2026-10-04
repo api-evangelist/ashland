@@ -57,7 +57,6 @@ apis:
     chemicals portfolio by application, industry, function, and chemistry type to identify the right ingredients
     for formulations.
   humanURL: https://www.ashland.com/search
-  baseURL: https://www.ashland.com
   tags:
   - Specialty Chemicals
   - Product Catalog
