@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "ashland",
+    "captured_at": "2026-10-11T180507",
+    "source_url": "https://www.ashland.com/",
+    "source_type": "Portal",
+    "file": "ashland-2026-10-11T180507.png",
+    "bytes": 917252,
+    "capture": "playwright-local"
+  }
+]
