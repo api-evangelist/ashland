@@ -1,4 +1,4 @@
-# Ashland (ashland)
+# Ashland
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,65 +66,100 @@
 
 Ashland is a global specialty chemicals company headquartered in Wilmington, Delaware, that provides high-performance ingredients and additives for the pharmaceutical, personal care, food and beverage, coatings, adhesives, and industrial markets. The company's product portfolio includes cellulose ethers, vinyl pyrrolidone polymers, acrylates, and specialty polymers sold under brands such as Benecel, Klucel, Natrosol, Plasdone, and Povidone. Ashland serves over 10,000 customers in more than 100 countries. Ashland does not offer a public developer API but provides digital product selection tools, safety data sheets, and technical documentation through its website.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ashland/refs/heads/main/apis.yml)
+**Areas:** Chemicals · Specialty Chemicals · Pharmaceuticals · Personal Care · Industrial · Fortune 500
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Ashland on APIs.io
 
-## Tags:
+Everything profiled for Ashland is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ashland/](https://apis.io/providers/ashland/)** — or go straight to one of the APIs or properties below.
 
- - Chemicals, Specialty Chemicals, Pharmaceutical, Personal Care, Industrial
+### APIs (1)
 
-## Timestamps
+- [Ashland Product Finder](https://apis.io/apis/ashland/product-finder/) — Ashland's digital product finder tool enables customers to search and filter the specialty chemicals portfolio by application, industry, function, and…
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-19
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-### Ashland Product Finder
-Ashland's digital product finder tool enables customers to search and filter the specialty chemicals portfolio by application, industry, function, and chemistry type to identify the right ingredients for formulations.
+#### Security (1)
 
-**Human URL:** [https://www.ashland.com/search](https://www.ashland.com/search)
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags:
+- [Ashland Domain Security](https://apis.io/security/ashland/ashland-domain-security/)
 
- - Specialty Chemicals, Product Catalog, Formulation
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://www.ashland.com/search)
+- [Ashland Plans Pricing](https://apis.io/plans/ashland/ashland-plans-pricing/)
 
-## Common Properties
+#### Rate limits (1)
 
-- [Ashland Website](https://www.ashland.com/)
-- [Contact Us](https://www.ashland.com/about/contact-us)
+Published request limits.
 
-## Features
+- [Ashland Rate Limits](https://apis.io/rate-limits/ashland/ashland-rate-limits/)
 
-| Name | Description |
-|------|-------------|
-| Pharmaceutical Excipients | Specialty excipients for pharmaceutical formulations including binders, film coatings, controlled release polymers, and solubility enhancers. |
-| Personal Care Ingredients | Functional ingredients for personal care formulations including thickeners, conditioning agents, and film formers for hair care, skin care, and color cosmetics. |
-| Food and Beverage Additives | Food-grade specialty ingredients including thickeners, stabilizers, and texture modifiers for food and beverage applications. |
-| Industrial Specialties | Specialty chemicals for coatings, adhesives, construction, and oilfield applications including cellulosics and acrylates. |
-| Safety Data Sheets | Comprehensive safety data sheets and technical documentation for all Ashland products accessible through the digital product portal. |
+#### FinOps (1)
 
-## Use Cases
+What the API costs to run, by operation.
 
-| Name | Description |
-|------|-------------|
-| Pharmaceutical Formulation | Pharmaceutical formulators source Ashland excipients for drug delivery systems including tablets, capsules, topicals, and controlled-release dosage forms. |
-| Personal Care Product Development | Cosmetic chemists use Ashland specialty ingredients to develop high-performance hair care, skin care, and color cosmetic formulations. |
-| Industrial Applications | Manufacturers incorporate Ashland specialties into coatings, adhesives, construction materials, and oilfield applications for performance enhancement. |
+- [Ashland Finops](https://apis.io/finops/ashland/ashland-finops/)
 
-## Integrations
+## Where to find this API
 
-| Name | Description |
-|------|-------------|
-| SAP Supplier Portal | Ashland conducts B2B procurement and supplier management through enterprise SAP systems. |
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Maintainers
+- [Website](https://ashland.com)
+- [Support](https://www.ashland.com/about/contact-us)
 
-**FN:** Kin Lane
+## API Evangelist rating
 
-**Email:** kin@apievangelist.com
+**Kin Score 10.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ashland/](https://apis.io/providers/ashland/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ashland: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ashland/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
